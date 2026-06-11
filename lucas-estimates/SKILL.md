@@ -6,6 +6,7 @@ metadata:
 ---
 
 # ArcTouch Estimates
+This is a new version!
 
 Use this skill when drafting or updating **estimate sheets**, **PRD effort tables**, **CSV for the "2. Estimates" tab**, or **sprint plans** so they align with ArcTouch estimation standards (Notion: *Estimating a Project* → *Estimation Tool (2025)*; *Estimation Guide*). For any full estimate package, also produce **SPRINT-PLAN.md** with **development order** (Order column), **parallel tracks** (which tasks can run together), **predecessors** (blocking tasks per task), **sprint allocation**, and **team size per sprint** (see [SPRINT-PLAN.md — required structure](#sprint-planmd--required-structure) below).
 
